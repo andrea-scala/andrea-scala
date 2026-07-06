@@ -2,7 +2,7 @@
 Bachelor degree in Computer Science, Cybersecurity Master Student at University of Salerno, Italy
 
 # 2️⃣ Socials:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/in/andrea-scala-7855321b2) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:andrea.scala.job@gmail.com) [![leetcode](https://img.shields.io/badge/LEETCODE-white?logo=leetcode)](https://leetcode.com/u/callmepierce/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/in/andrea-scala-7855321b2)] [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:andrea.scala.job@gmail.com)] [![leetcode](https://img.shields.io/badge/LEETCODE-white?logo=leetcode)](https://leetcode.com/u/callmepierce/) 
 
 # 3️⃣ Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
