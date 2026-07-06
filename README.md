@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/LLM-Groq-F55036?style=for-the-badge" alt="Groq LLM" />
 </p>
----
 
 ### 📊 GitHub Activity
 
