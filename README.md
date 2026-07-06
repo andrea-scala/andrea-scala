@@ -22,7 +22,7 @@
 </div>
 
 * 🎓 **Education:** Master of Science (M.Sc.) in Cybersecurity & Bachelor's Degree in Computer Science from the **University of Salerno**, Italy.
-* 🛡️ **Core Focus:** Secure Software Development, Applied Cryptography, Network Security, and Vulnerability Assessment.
+* 🛡️ **Core Focus:** Backend development, AI Integration, Secure Software Development, Applied Cryptography, Network Security, and Vulnerability Assessment.
 * ⚡ **Tech Interests:** Building robust and secure backend architectures using Python and modern frameworks.
 
 ---
