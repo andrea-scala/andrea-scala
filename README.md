@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/andrea-scala/count.svg)
 <div align="center">
 
 # 🧑‍💻 Andrea Scala
