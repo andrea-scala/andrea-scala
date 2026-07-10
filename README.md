@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/LLM-Groq-F55036?style=for-the-badge" alt="Groq LLM" />
 </p>
 
+[![Le mie tecnologie top](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-scala&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📊 GitHub Activity
 
 <p align="center">
